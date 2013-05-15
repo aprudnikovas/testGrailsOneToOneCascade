@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Aivarass-iMac.local" id="0" name="DeleteTests" package="testusergroupdetails" tests="1" time="0.677" timestamp="2013-05-15T13:32:38">
+      <properties />
+
+      <testcase classname="testusergroupdetails.DeleteTests" name="testCanDeleteGroup" time="0.668" />
+
+      <system-out><![CDATA[--Output from testCanDeleteGroup--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testCanDeleteGroup--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
